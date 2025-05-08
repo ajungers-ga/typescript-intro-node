@@ -2,6 +2,10 @@
 
 This project is a clean walkthrough of the official [TypeScript in 5 Minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) lesson — Per instructor direction, I adapted to run in a Node.js environment using `console.log()` instead of browser DOM manipulation.
 
+
+Link Below = my next TypeScript Lesson:
+
+https://github.com/ajungers-ga/typescript-everyday-types/
 ---
 
 ## What It Covers

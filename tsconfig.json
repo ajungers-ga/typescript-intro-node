@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                     // Modern JS syntax support
+    "module": "commonjs",                // Node-compatible module system
+    "outDir": "./dist",                  // Send compiled .js files to /dist
+    "rootDir": "./",                     // Entry point for all .ts source files
+    "strict": true,                      // Enable all strict type-checking
+    "esModuleInterop": true,             // Allow importing CommonJS modules
+    "forceConsistentCasingInFileNames": true, 
+    "skipLibCheck": true
+  },
+  "include": ["./**/*.ts"],
+  "exclude": ["node_modules", "dist"]
+}
